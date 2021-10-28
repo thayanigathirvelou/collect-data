@@ -1,22 +1,100 @@
 [
   {
-    "id":0,
-    "drugname":"Aripiprazole",
-    "price":34,
-    "description":"Aripiprazole belongs to a group of medicines called antipsychotics. It is taken once daily.Keep your regular appointments with your doctor. This is so your progress can be checked. The most common side-effects include feeling shaky and restless"
-  },
-  {
-    "id":1,
-    "drugname":"Albuterol inhaler",
-    "price":55,
-    "description":"Albuterol is a 'rescue' or 'quick-relief' inhaler.Make sure you know how to use the inhaler properly. If you are not sure, ask your physician or pharmacist to show you. If after using the inhaler your symptoms do not improve, contact your physician for advice straightaway.The most common side-effect is feeling shaky. This should soon pass.Do not smoke. Smoking causes irritation to the lungs and will make your condition worse"
-  },
-  {
-    "id":2,
-    "drugname":"Accolate",
-    "price":78,
-    "description":"Accolate® tablets were discontinued in the UK in March 2018. At the time of review there are no branded or generic products containing zafirlukast available in the UK. Zafirlukast may still be available in other countries. This medicine leaflet is based on medical information available in the UK at the time of writing and is left here for reference purposes. Please also refer to the manufacturer's information supplied with your medicine"
-  },
+      "id":0,
+      "drugname":"Aripiprazole",
+      "price":34,
+      "description":"Aripiprazole belongs to a group of medicines called antipsychotics. It is taken once daily.Keep your regular appointments with your doctor. This is so your progress can be checked. The most common side-effects include feeling shaky and restless"
+    },
+    {
+      "id":1,
+      "drugname":"Albuterol inhaler",
+      "price":55,
+      "description":"Albuterol is a 'rescue' or 'quick-relief' inhaler.Make sure you know how to use the inhaler properly. If you are not sure, ask your physician or pharmacist to show you. If after using the inhaler your symptoms do not improve, contact your physician for advice straightaway.The most common side-effect is feeling shaky. This should soon pass.Do not smoke. Smoking causes irritation to the lungs and will make your condition worse"
+    },
+    {
+        "id":2,
+        "drugname":"Amias",
+        "price":55,
+        "description":"Take candesartan once each day. You can take the tablets either before or after a meal. Any side-effects are usually mild. They include headache and feeling dizzy. Some painkillers may interfere with candesartan and increase the risk of side-effects, so ask a pharmacist for advice before you buy any medicines."
+      },
+      {
+        "id":3,
+        "drugname":"Amfexa",
+        "price":57,
+        "description":"Dexamfetamine is prescribed both for adults and for children, but for different conditions. It can affect your ability to perform skilled tasks - if affected do not drive and do not use tools or machines. Do not stop taking dexamfetamine without speaking with your doctor first. Stopping it suddenly may cause problems."
+      },
+      {
+        "id":4,
+        "drugname":"Acnecide",
+        "price":78,
+        "description":"Apply the preparation once or twice each day. Use it on all of the area where your spots occur - not just on each spot. Skin redness or peeling will probably occur during the first few days of treatment. This should soon pass. Try not to get any of the preparation on your hair or clothing, as it can cause bleaching."
+      },
+      {
+        "id":5,
+        "drugname":"Adenuric",
+        "price":55,
+        "description":"Febuxostat is prescribed to help prevent gout attacks. It does not have any effect during a gout attack, although you should continue to take it regularly every day, even if this happens. A painkilling medicine or colchicine will be prescribed for you to take alongside it should you get a gout attack. Take one tablet each day. There have been a few reports of febuxostat causing a serious allergic reaction (such as swelling around the face, difficulties breathing and skin rash). Although this is rare, if you experience any of these symptoms, you should stop taking febuxostat and contact your doctor straightaway."
+      },
+      {
+        "id":6,
+        "drugname":"Adizem",
+        "price":89,
+        "description":"When you first start taking diltiazem you may get a headache, feel flushed, or get swollen ankles. These symptoms usually pass after a few days. Each time you collect a new supply of diltiazem, check to make sure you have been given the same type of tablets or capsules as before."
+      },
+      {
+        "id":7,
+        "drugname":"Aindeem",
+        "price":70,
+        "description":"Finasteride is for adult men only - it must not be taken by anyone aged under 18 years, or by women. The dose is one (1 mg) tablet a day. Side-effects are uncommon, but may include a loss of sex drive and a reduced ability to get an erection."
+      },
+      {
+        "id":8,
+        "drugname":"Atrovent",
+        "price":55,
+        "description":"Ipratropium relieves breathlessness and wheezing. Make sure you know how to use the inhaler or nebuliser properly. If you are not sure, ask your nurse, doctor or pharmacist to show you. Use ipratropium regularly. Your doctor will tell you how many times you should use it each day - it will be either three or four times daily."
+      },
+      {
+        "id":9,
+        "drugname":"Accrete D3",
+        "price":87,
+        "description":"Calcium with colecalciferol is a mineral and vitamin D supplement. It promotes bone strength and helps to prevent 'thinning' of the bones (osteoporosis). Make sure you know how to take the preparation you have been given. Some brands of tablets are swallowed with water, others are chewable, and others are dissolved in water. The contents of sachets should be mixed into water before taking. Read the label carefully, and if you are still unsure what to do, ask your pharmacist for advice."
+      },
+      {
+        "id":10,
+        "drugname":"Ammonaps",
+        "price":15,
+        "description":"Take sodium phenylbutyrate at mealtimes. It is important that you follow the special dietary advice given by your doctor or dietician."
+      },
+      {
+        "id":11,
+        "drugname":"Amoxicillin",
+        "price":32,
+        "description":"Make sure you tell your doctor if you are allergic to penicillin. Amoxicillin is a type of penicillin - do not take it if you are allergic to penicillin. Space your doses out evenly over the day and complete the full course of the antibiotic, even if you feel your infection has cleared up. You can take amoxicillin either before or after food. If you have an allergic reaction (such as any swelling around your mouth, any difficulties breathing or a red rash) contact a doctor for advice straightaway."
+      },
+      {
+        "id":12,
+        "drugname":"Xeplion",
+        "price":54,
+        "description":"Paliperidone long-acting injection will be given to you by your doctor or nurse every four weeks. If you miss an appointment for an injection, please make another appointment as soon as possible. The most common side-effects are headache and difficulties sleeping."
+      },
+      {
+        "id":13,
+        "drugname":"Xismox",
+        "price":57,
+        "description":"Isosorbide mononitrate helps to prevent angina chest pain from developing. It is not suitable to take to treat an angina attack - you should always carry with you a short-acting nitrate, such as glyceryl trinitrate (GTN), for if you get angina pain. The most common side-effect is headache. This should pass after a few days."
+      },
+      {
+        "id":14,
+        "drugname":"Zapain",
+        "price":23,
+        "description":"Co-codamol contains both paracetamol and codeine. Do not take any other preparation which contains paracetamol while you are taking co-codamol. The usual dose for an adult is one or two co-codamol tablets/capsules every 4-6 hours if needed. Do not take more than two tablets/capsules at a time or more than eight tablets/capsules in 24 hours. Co-codamol is likely to affect your reactions and your ability to drive. Do not drive until you know how it affects you."
+      },
+      {
+        "id":15,
+        "drugname":"Zinnat",
+        "price":14,
+        "description":"Before you take cefuroxime, make sure your doctor knows if you have ever had an allergic reaction to any other antibiotic. Space your doses out evenly over the day and complete the full course of the antibiotic, even if you feel your infection has cleared up. The most common side-effect is diarrhoea, which is usually mild and soon passes. If it becomes severe or lasts for more than 24 hours, you should speak with your doctor."
+      },
    {
     "id":31,
     "drugname":"Cabergoline tablets",
