@@ -17,4 +17,96 @@
     "price":78,
     "description":"Accolate® tablets were discontinued in the UK in March 2018. At the time of review there are no branded or generic products containing zafirlukast available in the UK. Zafirlukast may still be available in other countries. This medicine leaflet is based on medical information available in the UK at the time of writing and is left here for reference purposes. Please also refer to the manufacturer's information supplied with your medicine"
   },
+   {
+    "id":31,
+    "drugname":"Cabergoline tablets",
+    "price":50,
+    "description":"Cabergoline should be taken with food.It can cause dizziness, especially during the first few days of treatment.Each time you collect a fresh supply, check to see if the tablets look the same as you have had before. If they are different, discuss this with your pharmacist who will advise you."
+  },
+  {
+    "id":32,
+    "drugname":"Clozapine",
+    "price":52,
+    "description":"Clozapine is prescribed for mental health problems which affect the way you think, feel or behave.It is important that you have regular check-ups and blood tests.Make sure you read all the printed information you are given. If there is anything you are unsure about, ask your doctor or clinic for further advice."
+  },
+   {
+    "id":33,
+    "drugname":"Calcium with colecalciferol",
+    "price":36,
+    "description":"Calcium with colecalciferol is a mineral and vitamin D supplement.It promotes bone strength and helps to prevent 'thinning' of the bones (osteoporosis).Make sure you know how to take the preparation you have been given. Some brands of tablets are swallowed with water, others are chewable, and others are dissolved in water. The contents of sachets should be mixed into water before taking. Read the label carefully, and if you are still unsure what to do, ask your pharmacist for advice."
+  },
+   {
+    "id":34,
+    "drugname":"Clomifene tablets",
+    "price":93,
+    "description":"Clomifene is prescribed to help you to get pregnant if you are not ovulating properly.It will be prescribed for a maximum of six treatment cycles. Most women who respond to treatment do so within three treatments.Side-effects tend to be mild, but you should speak with your doctor as soon as possible if you get abdominal pain or discomfort, or if you have any problems with your eyesight."
+  },
+   {
+    "id":35,
+    "drugname":"Colestipol",
+    "price":6,
+    "description":"Take each sachet of colestipol granules mixed into at least 100 ml of liquid or soft food such as fruit juice, skimmed milk, soup, or yoghurt.Avoid taking any other medicines at the same time as colestipol. Either take your other medicines one hour before colestipol, or wait until 4-6 hours afterwards.The main side-effect of colestipol is constipation."
+  },
+   {
+    "id":36,
+    "drugname":"Dabigatran capsules",
+    "price":23,
+    "description":"Dabigatran is a type of anticoagulant used to prevent or treat harmful blood clots.The main side-effect of all anticoagulants is bleeding. If you experience any unusual bleeding, speak with your doctor.Do not take anti-inflammatory painkillers (such as aspirin or ibuprofen) while you are on dabigatran."
+  },
+   {
+    "id":37,
+    "drugname":"Diclofenac",
+    "price":45,
+    "description":"Diclofenac is a medicine called a non-steroidal anti-inflammatory drug. It is also known as 'an NSAID'.Before you take diclofenac, let your doctor know if you have ever had a bad reaction to any other anti-inflammatory painkiller.Make sure you take your medication as directed on the label of the pack."
+  },
+   {
+    "id":38,
+    "drugname":"Dandrazol",
+    "price":21,
+    "description":"For dandruff, use the shampoo twice weekly for 2-4 weeks. To help prevent dandruff from returning, continue to use the shampoo every 1-2 weeks.For pityriasis versicolor, apply the shampoo directly to the skin patches once each day for up to five days. Leave it on the skin for 3-5 minutes before washing it off."
+  },
+   {
+    "id":39,
+    "drugname":"Dapoxetine tablets",
+    "price":62,
+    "description":"Dapoxetine is prescribed for the treatment of premature ejaculation.Take one tablet 1-3 hours before you have sex.The most common side-effects include feeling dizzy or faint, and feeling sick (nausea). Drinking a full glass of water at the same time as taking the tablet can reduce these effects."
+  }, 
+  {
+    "id":40,
+    "drugname":"Ditropan",
+    "price":78,
+    "description":"Oxybutynin will help to ease urinary symptoms such as urge and frequency in adults and night-time bedwetting in older children.It may cause you to feel sleepy. If this happens, do not drive and do not use tools or machines while affected."
+  }, 
+  {
+    "id":41,
+    "drugname":"Errin",
+    "price":66,
+    "description":"Carefully read and follow the printed information leaflet from inside your pack. The leaflet will give you more information about your brand of tabletTake one tablet every day, at the same time each dayIf you forget to take a tablet on time, take it as soon as you remember. If you are more than three hours late taking your tablet you must also use a condom for the following two days."
+  },
+  {
+    "id":42,
+    "drugname":"Erythromycin",
+    "price":33,
+    "description":"Erythromycin is an antibiotic. It can be taken by people who are allergic to penicillin.Space your doses out evenly over the day and complete the full course of this antibiotic, even if you feel your infection has cleared up.The most common side-effects are feeling sick (nausea) and tummy (abdominal) discomfort. These are usually mild and may be reduced by taking your doses after a meal or snack."
+  },
+  {
+    "id":43,
+    "drugname":"Ebixa",
+    "price":6
+    "description":"Memantine helps to ease the symptoms of dementia in Alzheimer's disease.Take one dose every day, at the same time of day each day. You can take memantine either before or after meals.You will be given a small dose when you first start treatment. This will gradually be increased over the following few weeks."
+  },
+   {
+    "id":44,
+    "drugname":"Edarbi",
+    "price":58,
+    "description":"Take azilsartan once each day. You can take the tablets either before or after a meal.Any side-effects are usually mild. They include feeling dizzy and having diarrhoea.Keep your regular appointments with your doctor to have your blood pressure measured.Some painkillers can interfere with azilsartan and increase the risk of side-effects, so ask a pharmacist for advice before you buy any medicines 'over the counter'."
+  },
+   {
+    "id":45,
+    "drugname":"Emadine",
+    "price":41,
+    "description":"Emedastine drops relieve eye irritation associated with allergies like hay fever.Use one drop twice a day, in the morning and the evening.It is not recommended that you wear soft contact lenses while you are using the drops."
+  },
+  
+  
 ]
