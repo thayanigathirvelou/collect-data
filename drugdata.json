@@ -95,6 +95,98 @@
         "price":14,
         "description":"Before you take cefuroxime, make sure your doctor knows if you have ever had an allergic reaction to any other antibiotic. Space your doses out evenly over the day and complete the full course of the antibiotic, even if you feel your infection has cleared up. The most common side-effect is diarrhoea, which is usually mild and soon passes. If it becomes severe or lasts for more than 24 hours, you should speak with your doctor."
       },
+  
+  {
+    "id":16,
+    "drugname":"Bactroban",
+    "price":52,
+    "description":"Unless your doctor tells you otherwise, apply mupirocin 2-3 times a day for ten days.Your skin may sting a little at fist but this should soon pass."
+},
+{
+    "id":17,
+    "drugname":"Bascellex",
+    "price":38,
+    "description":"Read carefully the directions you are given for using imiquimod cream. If you are unsure how many times a week to apply the cream, ask your pharmacist to check for you. Wash your hands after using the cream."
+},
+{
+    "id":18,
+    "drugname":"Betagan",
+    "price":62,
+    "description":"Levobunolol eye drops are used to control increased pressure within your eye(glaucoma). Remember to use the drop regularly - try not to miss any doses. If you are normally wear soft contact lenses, please make sure your doctor knows about this. "
+},
+{
+    "id":19,
+    "drugname":"Brufen",
+    "price":24,
+    "description":"Ibuprofen is a medicine called a non-steroidal anti-inflammatory drug. It is also known as 'an NSAID'. Speak with a doctor before taking ibuprofen if you have ever had a bad reaction to any other anti-inflammatory painkiller. Take ibuprofen with a meal or a snack."
+},
+{
+    "id":20,
+    "drugname":"Brevoxyl",
+    "price":45,
+    "description":"Apply the preparation once or twice each day. Use it on all of the area where your spots occur -not just each spot. Skin redness or peeling will probably occur during the first few days of treatment. This should soon pass. Try not to get any of the preparation on your hair or clothing, as it can clause bleaching."
+},
+{
+    "id":21,
+    "drugname":"Ranexa",
+    "price":55,
+    "description":"Ranolazine is one of several medicines you will be prescribed for angina.Take one tablet twice daily.Do not drink grapefruit juice while you are on ranolazine."
+},
+{
+    "id":22,
+    "drugname":"Rapitil",
+    "price":35,
+    "description":"Nedocromil sodium eye drops help to prevent red, watery, itchy eyes caused by allergies.The drops are usually used twice a day. If your symptoms are more severe, your doctor may suggest you use them three or four times daily.When first put in, eye drops can cause blurred vision. Wait until this clears before you drive or before you use tools or machines."
+},
+{
+    "id":23,
+    "drugname":"Relief",
+    "price":48,
+    "description":"Cetirizine relieves allergic symptoms.Cetirizine is called a non-drowsy antihistamine; however, it can still cause drowsiness in a few people. Make sure your reactions are normal before you drive, or before using tools or machines."
+},
+{
+    "id":24,
+    "drugname":"Respirin",
+    "price":40,
+    "description":"You can take a dose of aspirin every 4-6 hours if needed, but do not take more than 4 g in any 24-hour period.You must not take these tablets with any other preparation which contains aspirin, or with any non-steroidal anti-inflammatory painkiller.Do not give aspirin to children under 16 years of age."
+},
+{
+    "id":25,
+    "drugname":"Rinatec",
+    "price":32,
+    "description":"Ipratropium nose spray is used to help stop a runny nose.Use two sprays into each nostril, two or three times a day.The most common side-effects are dryness and irritation of the nose or throat, mild nosebleeds, and headache."
+},
+{
+    "id":26,
+    "drugname":"Sabril",
+    "price":33,
+    "description":"Vigabatrin will be prescribed for you by a specialist who will continue to monitor your progress.If you experience any problems with your eyes or vision, you should contact your doctor as soon as possible.You need to take vigabatrin regularly. Do not stop taking it unless your doctor tells you to."
+},
+{
+    "id":27,
+    "drugname":"Salagen",
+    "price":47,
+    "description":"Take pilocarpine during a meal. Swallow the tablet with a large glass of water.The tablets may reduce your ability to see clearly in poor lighting. Do not drive at night if you are affected.The most common side-effects include headache, sweating, flu-like symptoms and passing urine more frequently."
+},
+{
+    "id":28,
+    "drugname":"Sodium feredetate",
+    "price":58,
+    "description":"Iron supplements are best absorbed when they are taken an hour before meals. However, to reduce stomach upset, you may prefer to take your doses after meals.Common side-effects include stomach upset, constipation and diarrhoea.Remember to keep iron supplements out of the reach and sight of children - iron is a common cause of serious accidental ingestion in children."
+},
+{
+    "id":29,
+    "drugname":"Sulpiride",
+    "price":62,
+    "description":"Keep your regular appointments with your doctor. This is so your progress can be checked.The most common side-effect is feeling sleepy.Your skin may become more sensitive to sunlight than normal. Protect your skin from bright sunlight until you know how your skin reacts, and do not use sunbeds."
+},
+{
+    "id":30,
+    "drugname":"Syonell",
+    "price":47,
+    "description":"Swallow Depakote® tablets with a drink of water. Do not chew or crush the tablets.Take the tablets after a meal or a snack.Each time you collect a new supply of tablets, make sure that they look the same as you have had before."
+},
+  
    {
     "id":31,
     "drugname":"Cabergoline tablets",
