@@ -277,6 +277,103 @@
     "price":41,
     "description":"Emedastine drops relieve eye irritation associated with allergies like hay fever.Use one drop twice a day, in the morning and the evening.It is not recommended that you wear soft contact lenses while you are using the drops."
   },
-  
+ {
+   "id":46,
+    "drugname":"Fludroxycortide for inflammatory skin conditions",
+    "price":99,
+    "description":"You only need to use a small amount of cream or ointment. Apply it thinly just to the areas affected, and then massage it gently into the skin. It must not be applied more than twice a day, and once a day is often sufficient.Topical corticosteroids should not be used for long periods of time or on large areas of the body, especially in children.Do not use the cream on any infected areas of skin"
+},
+{
+   "id":47,
+   "drugname":"Fusidic acid for skin infections",
+   "price":40,
+   "description":"Apply the cream or ointment three or four times a day, unless you have been told otherwise.Wash your hands well afterwards, as this will help to reduce the risk of spreading the infection.Your skin should start to improve after a few days. Let your doctor know if you feel there is no improvement after this time."
+}
+{
+   "id":48,
+   "drugname":"Fluvoxamine tablets",
+   "price":69,
+   "description":"Fluvoxamine is initially prescribed as a once-daily dose, taken in the evening. If your dose is increased to over 150 mg daily, you will be asked to take the tablets in divided doses over the day.Swallow the tablet with a drink of water. You can take fluvoxamine with or without food.Please tell your doctor if you feel that you are getting worse, or if you experience any troublesome side-effects"
+}
+{
+   "id":49,
+   "drugname":"Fluvastatin tablets and capsules",
+   "price":55,
+   "description":"Fluvastatin belongs to a group of medicines known as statins. It regulates the amount of cholesterol and other lipids made by your body, and helps to reduce the risk of heart and blood vessel disease.Follow carefully any lifestyle advice you have been given such as stopping smoking, avoiding drinking too much alcohol, eating a healthy diet and taking exercise. These also help to reduce the risk of heart and blood vessel disease.If you develop any unusual cramps or pains in your muscles, contact your doctor for advice as soon as possible."
+}
+{
+   "id":50,
+   "drugname":"Fluoxetine",
+   "price":79,
+   "description":"Try to take fluoxetine at the same time each day.It may take up to four weeks after starting this treatment before you feel the full benefit. Do not stop taking it, feeling it is not helping.Tell your doctor if you feel that you are not getting any better, or if you experience any troublesome side-effects."
+
+}
+{
+   "id":51,
+   "drugname":"Fentanyl for pain relief",
+   "price":95,
+   "description":"This medicine is an opioid painkiller. There is a serious risk of addiction when taking this medicine, especially if used long-term. The Medicines and Healthcare products Regulatory Agency (MHRA) has issued new guidance for people prescribed an opioid painkiller. If you have any questions or concerns about taking opioids safely please speak with your doctor or a pharmacist."
+}
+{
+   "id":52,
+   "drugname":"Glibenclamide for diabetes",
+   "price":89,
+   "description":"Take glibenclamide with, or just after, your first main meal of the day (usually breakfast).Remember to follow any advice you have been given about your diet and taking exercise.Common side-effects include stomach upset and low blood sugar (hypoglycaemia). Make sure you know how to recognise the symptoms of low blood sugar. These include feeling shaky or anxious, sweating, looking pale, feeling hungry, having a feeling that your heart is pounding (palpitations), and feeling dizzy."
+}
+{
+   "id":53,
+   "drugname":"Gabapentin",
+   "price":94,
+   "description":"Read the information leaflet from inside the pack.Gabapentin can cause you to feel sleepy. Make sure your reactions are normal before you drive and before you use tools or machines.Do not take antacid preparations during the two hours before you are due to take gabapentin, or during the two hours after you have taken a dose.Take gabapentin regularly every day. Do not stop taking it unless your doctor tells you to do so."
+}
+{
+   "id":54,
+   "drugname":"Goserelin implant",
+   "price":69,
+   "description":"Goserelin implants are injected under the surface of the skin on your stomach.Each time you collect a prescription, check to make sure it looks the same as you have had before. There are two strengths of implant - Zoladex® 3.6 mg (suitable for men and women) and Zoladex® LA 10.8 mg (suitable for men only).The most common side-effects are hot flushes, sweating, and reduced interest in sex."
+}
+{
+   "id":55,
+   "drugname":"Gemfibrozil for hyperlipidaemia",
+   "price":60,
+   "description":"Gemfibrozil reduces fat (lipid) levels. Take your doses about half an hour before a meal.Some lifestyle changes will also help to reduce your lipid level - eat healthy food, stop smoking, increase the exercise you take, and reduce the amount of salt in your diet.The most common side-effect is indigestion. If you develop any unusual aches and pains in your muscles, contact your doctor for advice."
+}
+{
+   "id":56,
+   "drugname":"Griseofulvin for fungal infections",
+   "price":96,
+   "description":"Griseofulvin is prescribed to treat fungal infections.A course of treatment may last from a few weeks to several months.Griseofulvin may harm an unborn child - you must avoid getting pregnant or fathering a child.The most common side-effects are feeling sick (nausea) and diarrhoea."
+}
+{
+   "id":57,
+   "drugname":"Haloperidol long-acting injection",
+   "price":68,
+   "description":"Your doctor or nurse will inject haloperidol into a muscle in your buttocks. The effect of each injection will last for four weeks.It is important you keep your regular appointments with your doctor or nurse.There are a number of side-effects which you may experience from this treatment. If you are concerned about any of these, you should discuss them with your doctor."
+}
+{
+   "id":58,
+   "drugname":"Hydroxycarbamide",
+   "price":78,
+   "description":"You will be prescribed hydroxycarbamide by a specialist doctor.Please keep your regular clinic appointments so that your doctor can check on your progress. You will need to have regular blood tests.If you think you are getting an infection or if you have a high temperature (fever), please contact your doctor for advice straightaway."
+}
+{
+   "id":59,
+   "drugname":"Hyoscine for travel sickness",
+   "price":88,
+   "description":"Follow the dosage directions on the label or pack. Do not take more than the recommended dose.If you are taking tablets, take a dose about 30 minutes before you travel.If you have been prescribed a patch, apply it to the skin behind your ear 5-6 hours before your journey starts.Hyoscine may make you sleepy. If this happens, do not drive and do not use tools or machines."
+}
+{
+   "id":60,
+   "drugname":"Hypromellose eye drops",
+   "price":50,
+   "description":"Hypromellose eye drops act as artificial tears. They make dry eyes feel more comfortable.Use the drops three or four times a day, or more often if required.If your vision becomes blurred for a short while after using the drops, do not drive until you can see clearly again."
+}
+
+
+
+
+
+
+
   
 ]
